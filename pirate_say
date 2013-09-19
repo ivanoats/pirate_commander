@@ -1,0 +1,17 @@
+#!/usr/bin/env ruby
+require 'trollop'
+require 'active_support'
+require 'active_support/inflector'
+require 'booty'
+
+ops = Trollop::options do
+  version "0.1 (C) 2013 Ivan Storck"
+  banner <<-EOS
+  ARRRRRRRRRGHHHHHH! Ye be talkin' like a pirate post haste!
+
+  Usage:
+         pirate_say "message"
+
+  EOS
+end
+puts Booty.call(ARGV.first) unless ARGV.empty?

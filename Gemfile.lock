@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    active_support (3.0.0)
+      activesupport (= 3.0.0)
+    activesupport (3.0.0)
+    booty (0.1.1)
+    i18n (0.6.5)
+    trollop (2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  active_support
+  booty
+  i18n
+  trollop

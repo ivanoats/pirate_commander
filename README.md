@@ -1,4 +1,4 @@
-## pirate_commander ruby gem
+### pirate_commander ruby gem
 
 ![steal your pirate](http://farm1.staticflickr.com/86/265523551_01af714d63_z.jpg?zz=1)
 
@@ -13,14 +13,14 @@ provides the pirate_say command
        --help, -h:   Show this message
 ```
 
-# License
+## License
 
 MIT - share the booty!
 
-# Copyright
+## Copyright
 
 2013 Ivan Storck
 
-# Contributions
+## Contributions
 
-Welcome. Send me a pull rrrrrequest henceforth.
+Welcome. Send me a pull rrrrrequest or walk the plank!

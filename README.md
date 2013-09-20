@@ -1,4 +1,6 @@
-## pirate_commander gem
+## pirate_commander ruby gem
+
+![steal your pirate](http://farm1.staticflickr.com/86/265523551_01af714d63_z.jpg?zz=1)
 
 provides the pirate_say command
 
